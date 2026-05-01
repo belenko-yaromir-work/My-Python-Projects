@@ -1,1 +1,1 @@
-# yandex-lyceum-tasks
+# Мои проекты на Python
