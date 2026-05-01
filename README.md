@@ -1,7 +1,9 @@
 # 🐍 My Python Projects: Advanced Junior Level
-![Python](https://shields.io)
-![Blender](https://shields.io)
-![GitHub](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
 Коллекция проектов, демонстрирующая навыки промышленного программирования на Python. Здесь собраны работы от алгоритмов до архитектурных паттернов.
 
